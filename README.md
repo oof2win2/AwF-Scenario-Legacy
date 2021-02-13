@@ -2,6 +2,10 @@
   <img alt="logo" src="https://cdn.discordapp.com/icons/548410604679856151/b69e6b33b328491ebbcbe050ff4de269.webp" width="120">
 </p>
 <h1 align="center">AwF Scenario Repository</h2>
+# ARCHIVED
+
+This repo has been archived as it wasn't a direct fork, therefore it wouldn't work properly with changes
+---
 
 ## All-Weekend Factorio
 
